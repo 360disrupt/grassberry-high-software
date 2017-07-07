@@ -1,0 +1,1 @@
+db.getCollection('softwares').update({}, {$set: {url: "", checksum: 27621999}})
